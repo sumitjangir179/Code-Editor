@@ -1,0 +1,22 @@
+.editor{
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+textarea{
+    width: 100%;
+    text-align: justify;
+    font-size: 18px;
+    padding: 16px;
+    background: gainsboro;
+    tab-size: 3;
+}
+
+.editorBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 12px;
+  }
